@@ -1,1 +1,1 @@
-# XGBoost_Strategy.py
+This project implements a machine learning-based trading strategy using XGBoost. It uses technical indicators such as the 20-period Exponential Moving Average (EMA), Relative Strength Index (RSI), and daily returns as features to predict whether the next day’s price will increase. The model is trained and evaluated on historical price data, and performance metrics like accuracy and classification reports are provided to assess the strategy’s effectiveness compared to a buy-and-hold approach.
